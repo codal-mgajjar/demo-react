@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Hello Meshw this is done by viraj.
+          Hello Meshw this is done.
         </a>
       </header>
     </div>
